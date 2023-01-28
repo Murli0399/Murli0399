@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Murli Khaire 
-- 👀 I’m interested in MERN stack
-- 🌱 I’m currently learning MERN stack
+- 👀 I’m interested in JAVA Backend Developer
+- 🌱 I’m currently learning Full Stack Web Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
