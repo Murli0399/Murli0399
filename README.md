@@ -1,3 +1,5 @@
+![logo](https://github.com/Murli0399/Murli0399/blob/main/Blue%20Illustration%20Technology%20LinkedIn%20Banner%20(1).png)
+
 <h1 align="center">Hi 👋, I'm Murli Khaire</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
