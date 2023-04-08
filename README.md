@@ -53,12 +53,12 @@
 
 <p align="center">
 
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasmedade&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>  
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Murli0399&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>  
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=tejasmedade&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Murli0399&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
 
 
 <p align="right">
-  <img src="https://activity-graph.herokuapp.com/graph?username=tejasmedade&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Murli0399&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
 </p>
