@@ -1,6 +1,16 @@
 ![logo](https://github.com/Murli0399/Murli0399/blob/main/Blue%20Illustration%20Technology%20LinkedIn%20Banner%20(1).png)
 
-<h1 align="center">Hi 👋, I'm Murli Khaire</h1>
+ <hr></hr>
+<p align="center">
+  <samp>
+    Hi, I'm Murli!👋 <br>
+    🔥 Software Developer grinding hard to make something cool  <br>
+    :sparkles: Favorite Tech: Java, Spring, MySql ... <br>
+    :email:	murlikhaire28@gmail.com <br>
+    :art: Portfolio: https://Murli0399.github.io <br>
+    :briefcase: LinkedIn: https://linkedin.com/in/saadpasta <br>
+  </samp>
+</p>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="350" align="right" alt="gif">
