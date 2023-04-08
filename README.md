@@ -37,7 +37,7 @@
 
 <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,git,github,vscode,netlify,photoshop,premiere,aftereffects,skecthup&perline=8" />
+    <img src="https://skillicons.dev/icons?i=eclipse,git,github,vscode,netlify,skecthup&perline=8" />
   </a>
 </p>
 
@@ -58,7 +58,3 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Murli0399&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
 
-
-<p align="right">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Murli0399&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
-</p>
