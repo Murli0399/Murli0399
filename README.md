@@ -37,15 +37,13 @@
 
 <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,spring,git,github,vscode,netlify,skecthup&perline=6" />
+    <img src="https://skillicons.dev/icons?i=idea,eclipse,spring,git,github,vscode,netlify,skecthup&perline=7" />
   </a>
 </p>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://twitter.com/tejasmedade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="murlikhaire" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/medadetejas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murlikhaire" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tejasmedade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="murlikhaire" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/murli-khaire/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murlikhaire" height="30" width="40" /></a>
 </p>
 
 <br/>
