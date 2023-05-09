@@ -1,7 +1,7 @@
 ![logo](https://github.com/Murli0399/Murli0399/blob/main/Blue%20Illustration%20Technology%20LinkedIn%20Banner%20(1).png)
 
 
-<h1 align="center">Heya 👋, I'm Murli Khaire</h1>
+<h1 align="center">Hey 👋, I'm Murli Khaire</h1>
 <h3 align="center">🔥 SOFTWARE DEVELOPER GRINDING HARD to MAKE SOMETHING COOL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murli0399&label=Profile%20views&color=0e75b6&style=flat" alt="tejasmedade" /> </p>
