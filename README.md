@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **murlikhaire28@gmail.com**
 
-- 👨‍💻 Know more about me at [https://Murli0399.github.io/](https://Murli0399.github.io/)
+- 👨‍💻 Know more about me at [Portfolio](https://Murli0399.github.io/)
 
 - 💬 Ask me anything about **Java Backend Development**
 
