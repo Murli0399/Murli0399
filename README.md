@@ -48,6 +48,7 @@
 
 <br/>
 
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Murli0399&bg_color=ece2f8&color=000000&line=9263d9&point=c45f5f&area=true&hide_border=true)
 
 <p align="center">
 
