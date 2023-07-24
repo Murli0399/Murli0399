@@ -14,7 +14,7 @@
 
 - 💬 Ask me anything about **Java Backend Development**
 
-- 👯 I’m looking to collaborate on **Backend Projects : JAVA, SQL, JDBC  HIBERNATE, MAVEN, SPRINGBOOT & CLI and Frontend Projects : HTML, CSS & JavaScript**
+- 👯 I’m looking to collaborate on **Backend Projects: JAVA, Python, SQL, MongoDB, JDBC  HIBERNATE, MAVEN, SPRING BOOT, Flask & CLI and Frontend Projects: HTML, CSS & JavaScript**
 
 <br/>
 
