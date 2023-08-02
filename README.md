@@ -52,7 +52,8 @@
 
 <p align="center">
 
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Murli0399&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>  
+
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Murli0399&theme=dark"/>  
 
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Murli0399&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
