@@ -53,8 +53,11 @@
 </p>
 
 <br/>
-![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Murli0399&bg_color=0d1117&color=FFFFFF&line=9263d9&point=c45f5f&area=true&hide_border=true)
 <p align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Murli0399&theme=dark"/>  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Murli0399&show_icons=true&theme=dark#gh-dark-mode-only" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Murli0399&bg_color=0d1117&color=FFFFFF&line=9263d9&point=c45f5f&area=true&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Murli0399&theme=dark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Murli0399&show_icons=true&theme=dark" />
 </p>
